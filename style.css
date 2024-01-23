@@ -34,7 +34,7 @@ body {
 
 .left {
     border-radius: 20px;
-    background-color: blue;
+    background-image: linear-gradient(to bottom, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
 .right {
