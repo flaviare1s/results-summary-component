@@ -72,6 +72,38 @@ body {
     width: 50%;
 }
 
+.att1 {
+    background-color: #FFF7F5;
+    color: hsl(0, 100%, 67%);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.att2 {
+    background-color: #FFFCF1;
+    color: hsl(39, 100%, 56%);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.att3 {
+    background-color: #F2FBFA;
+    color: hsl(166, 100%, 37%);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.att4 {
+    background-color: #F3F3FF;
+    color: hsl(234, 85%, 45%);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
 .right {
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
