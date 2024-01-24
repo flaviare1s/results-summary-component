@@ -128,8 +128,13 @@ body {
     font-size: 65px;
 }
 
-.button {
-    display: block;
+button {
+    background-color: hsl(224, 30%, 27%);
+    color: hsl(0, 0%, 100%);
+    padding: 15px;
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 10px;
 }
 
 .attribution {
